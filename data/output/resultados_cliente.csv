@@ -1,0 +1,8 @@
+"ClienteID","Nome","Telefone","Cidade","Count*(Quantidade)","Sum(Total)"
+1,"Joao Silva","912345678","Lisboa",3,3846.87
+2,"Maria Costa","913224578","Porto",3,1169.96
+3,"Carlos Lopes","913224570","Coimbra",3,767.89
+5,"Ricardo Almeida","916557801","Faro",3,545.96
+6,"Inês Martins","912668912","Setubal",3,319.4
+7,"Pedro Nogueira","","Guimarães",2,223
+4,"Ana Sousa Pereira","915446790","Braga",3,81.78999999999999
