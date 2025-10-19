@@ -53,7 +53,7 @@ tp01-25431/
 
 ##  Vídeo de Demonstração
 O vídeo de demonstração do projeto pode ser consultado através do seguinte link:  
-👉 [**Ver demonstração no YouTube**](https://youtu.be/TSlvSnjiV5E)
+ [**Ver demonstração no YouTube**](https://youtu.be/TSlvSnjiV5E)
 
 *(O mesmo link encontra-se também disponível no relatório em formato QR Code.)*
 
